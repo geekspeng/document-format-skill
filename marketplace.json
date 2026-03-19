@@ -1,0 +1,7 @@
+{
+  "name": "document-format",
+  "version": "1.0.0",
+  "description": "Claude Code Skill for formatting Chinese documents based on Fengchao Document Style Guide",
+  "source": "geekspeng/document-format-skill",
+  "files": ["SKILL.md"]
+}
