@@ -1,0 +1,22 @@
+{
+  "name": "document-skill",
+  "owner": {
+    "name": "geekspeng",
+    "email": "geekspeng@163.com"
+  },
+  "metadata": {
+    "description": "Kiro skill collection for Claude Code",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "document-format",
+      "description": "Claude Code Skill for formatting Chinese documents based on Fengchao Document Style Guide",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/document-format"
+      ]
+    }
+  ]
+}
